@@ -1,0 +1,25 @@
+_repo: The-Wishing-Ring-Man_7424
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Widdemer, Margaret
+    birthdate: 1884
+    deathdate: 1978
+    gutenberg_agent_id: '2463'
+    url: http://www.gutenberg.org/2009/agents/2463
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Widdemer
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Wishing-Ring Man
+url: http://www.gutenberg.org/ebooks/7424
